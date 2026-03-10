@@ -30,7 +30,7 @@ My [previous work](https://violazhong.github.io/llm-hallucination-an-internal-tu
 
 Additionally, the user modeling paper shows that layers 38–39 can override correct predictions made in layers 20–30 (e.g., the model correctly infers user gender at layer 25, but layer 38–39 overrides this). These findings collectively suggested a functional segmentation of the model, which motivated the subsequent experiments.
 
-![H-Neuron Landscape: 64 Hallucination-Associated Neurons](graphs/h_neuron_heatmap.png)
+![H-Neuron Landscape: 64 Hallucination-Associated Neurons](graphs/h_neurons_heatmap.png)
 
 ---
 
